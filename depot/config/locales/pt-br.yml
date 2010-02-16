@@ -1,0 +1,8 @@
+pt-br:
+  layout: 
+      title: "Catalogo Pragmatic"
+      side:
+          home: "Home"
+          questions: "Questões"
+          news: "Noticias"
+          contact: "Contato"
